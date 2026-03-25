@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --color-magalu-blue: #0086ff;
+  --color-magalu-pink: #f01159;
+  --color-magalu-yellow: #ffcc00;
+  --color-magalu-green: #00d38d;
+}
